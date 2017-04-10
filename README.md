@@ -4,13 +4,13 @@
 
 ## 单项链接字段 ##
 
-`name`: 你的网站名称
-`link`: 你的网站 URL
-`feed`: 你的 RSS / Atom URL
-`avatar`: 你的头像 URL
-`intro`: 你的简介
-`display`: 链接是否会出现在页面上
-`break`: 链接是否已损坏
+* `name`: 你的网站名称
+* `link`: 你的网站 URL
+* `feed`: 你的 RSS / Atom URL
+* `avatar`: 你的头像 URL
+* `intro`: 你的简介
+* `display`: 链接是否会出现在页面上
+* `break`: 链接是否已损坏
 
 除 `display` 和 `break` 为 boolean 外，其它均为 string。
 

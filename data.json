@@ -1,0 +1,542 @@
+{
+  "list": [
+    {
+      "group": "Telegram 频道",
+      "item": [
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://t.me/boring_stuff_collection",
+          "name": "吐槽大王"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://t.me/bakaepix",
+          "name": "羽毛"
+        }
+      ]
+    },
+    {
+      "group": "百度贴吧",
+      "item": [
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "https://jixun.moe/rss/",
+          "link": "https://jixun.moe",
+          "name": "Jixun"
+        },
+        {
+          "display": true,
+          "break": true,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "",
+          "name": "莫来说"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "https://mintory.com/feed",
+          "link": "https://www.mintory.com",
+          "name": "小小白豆腐"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "https://www.nottres.com/feed",
+          "link": "https://www.nottres.com",
+          "name": "MRL originals"
+        },
+        {
+          "display": true,
+          "break": true,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "",
+          "name": "小白说"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.cirno380a.moe",
+          "name": "CRH380A-2722"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.ddnpc.com",
+          "name": "蛋蛋的忧伤"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://tianji.me",
+          "name": "天际说"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.xinshushu.com",
+          "name": "欣叔叔"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.pxsky.net",
+          "name": "Meteor's Blog"
+        }
+      ]
+    },
+    {
+      "group": "Telegram / QQ",
+      "item": [
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.qwe7002.com",
+          "name": "qwe7002 的个人博客"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://blog.ooxx.dk",
+          "name": "OXの胡说八道"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://blog.dimpurr.com",
+          "name": "钉子の次元"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://blog.nekohand.moe",
+          "name": "猫の手も借りたい"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://ccoooss.com",
+          "name": "C次元"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://addamschen.me",
+          "name": "Addams Chen"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://blog.thiece.me",
+          "name": "Thiece"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://touko.moe",
+          "name": "Touko"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://howmoe.com",
+          "name": "Shiina"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://blog.cee.moe",
+          "name": "Cee"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://wislab.net",
+          "name": "WIS WORKS"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.nocti.work",
+          "name": "Nocti's Blog"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://touko.host.smartgslb.com",
+          "name": "柚子"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://moe.lu",
+          "name": "三千院の暗"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.ztk.im",
+          "name": "Kiseopt"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.almsev.com",
+          "name": "Almsev"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.rakume.com",
+          "name": "Rakume"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://nat.moe",
+          "name": "奈特的魔法科研"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://kikon.us",
+          "name": "神楽坂希子"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://deluxghost.me",
+          "name": "DeluxGhost"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://im.librazy.org",
+          "name": "Librazy"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://fenking.club",
+          "name": "Fenking"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.zsxsoft.com",
+          "name": "zsx"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://ikk.me",
+          "name": "kookxiang"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://loutzongyi.moe",
+          "name": "老中医的医药橱"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://blog.tellack.cc",
+          "name": "Tellack"
+        }
+      ]
+    },
+    {
+      "group": "Misc.",
+      "item": [
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://luojia.me",
+          "name": "佳佳酱"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://ikirby.me",
+          "name": "iKirby's Blog"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://i.mouto.org",
+          "name": "偷揉"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.acloli.com/",
+          "name": "炸鸡块儿"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://jimmy66.com",
+          "name": "星之所在"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://diary.moe",
+          "name": "Dsus4plus"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://jimmehcai.com",
+          "name": "Jimmy Cai's"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://meekdai.com/#!home",
+          "name": "Meekdai"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://wnjxyk.cn",
+          "name": "WNJXYK"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://taoxinhao.cn",
+          "name": "宅憶"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://sell.moe",
+          "name": "橙的记事本"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://hardrain980.com",
+          "name": "骤雨"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://imguoguo.com",
+          "name": "Guoguo"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.lynx.im",
+          "name": "Yay Ka-Boom-Boom"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.mr158.cn",
+          "name": "MR158"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://zankyo.cc",
+          "name": "kot4ri"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://blog.lwl12.com",
+          "name": "LWL 的自由天空"
+        }
+      ]
+    },
+    {
+      "group": "社群",
+      "item": [
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "http://www.kou.moe/",
+          "name": "萌口组"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
+          "link": "https://www.nyaa.cat",
+          "name": "喵窝"
+        }
+      ]
+    }
+  ]
+}

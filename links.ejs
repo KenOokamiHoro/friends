@@ -1,0 +1,19 @@
+**推荐关注 [吐槽大王星球](//planet.tcdw.net)，本页所有博客更新一网打尽！**
+<% for (var i in list) { %>
+## <%- list[i].group %> ##
+<%
+for (var j in list[i].item) {
+%>
+<%
+if (list[i].item[j].display) {
+%>* <%
+if (list[i].item[j].break) {
+%><%- list[i].item[j].name %><%
+} else {
+%>[<%- list[i].item[j].name %>](<%- list[i].item[j].link %>)<% } %><% } %><% } %>
+<% } %>
+## 注意 ##
+
+* 为节省访客时间，对于长期无法正常访问的站点，将会移除 HTML 的 `<a>` 标签；如果站点恢复，联系我重新添加即可。
+* 各种所谓博客联盟 / 导航或类似站点勿扰，同时谢绝被此类站点主动收录。
+* 下方评论区仅接受链接更新提醒；如果希望添加链接请发邮件给我。

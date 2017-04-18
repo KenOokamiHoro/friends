@@ -76,7 +76,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://www.cirno380a.moe/feed",
           "link": "https://www.cirno380a.moe",
           "name": "CRH380A-2722"
         },
@@ -85,7 +85,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://www.ddnpc.com/feed",
           "link": "https://www.ddnpc.com",
           "name": "蛋蛋的忧伤"
         },
@@ -94,7 +94,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://tianji.me/feed",
           "link": "http://tianji.me",
           "name": "天际说"
         },
@@ -103,7 +103,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://www.xinshushu.com/feed.php",
           "link": "http://www.xinshushu.com",
           "name": "欣叔叔"
         },
@@ -112,7 +112,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://www.pxsky.net/feed",
           "link": "http://www.pxsky.net",
           "name": "Meteor's Blog"
         }
@@ -126,7 +126,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://qwe7002.com/rss",
           "link": "https://www.qwe7002.com",
           "name": "qwe7002 的个人博客"
         },
@@ -135,7 +135,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.ooxx.dk/feed",
           "link": "https://blog.ooxx.dk",
           "name": "OXの胡说八道"
         },
@@ -144,7 +144,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://blog.dimpurr.com/feed/",
           "link": "http://blog.dimpurr.com",
           "name": "钉子の次元"
         },
@@ -153,7 +153,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.nekohand.moe/feed",
           "link": "https://blog.nekohand.moe",
           "name": "猫の手も借りたい"
         },
@@ -162,7 +162,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://ccoooss.com/feed",
           "link": "https://ccoooss.com",
           "name": "C次元"
         },
@@ -171,7 +171,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://addamschen.me/index.php/feed",
           "link": "http://addamschen.me",
           "name": "Addams Chen"
         },
@@ -180,8 +180,8 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
-          "link": "http://blog.thiece.me",
+          "feed": "https://blog.thiece.cn/feed",
+          "link": "https://blog.thiece.cn",
           "name": "Thiece"
         },
         {
@@ -189,7 +189,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://touko.moe/feed",
           "link": "https://touko.moe",
           "name": "Touko"
         },
@@ -198,7 +198,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://howmoe.com/feed/",
           "link": "http://howmoe.com",
           "name": "Shiina"
         },
@@ -207,7 +207,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://blog.cee.moe/feed.xml",
           "link": "http://blog.cee.moe",
           "name": "Cee"
         },
@@ -216,8 +216,8 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
-          "link": "https://wislab.net",
+          "feed": "https://wischu.com/feed",
+          "link": "https://wischu.com",
           "name": "WIS WORKS"
         },
         {
@@ -225,7 +225,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://www.nocti.work/feed",
           "link": "http://www.nocti.work",
           "name": "Nocti's Blog"
         },
@@ -234,8 +234,8 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
-          "link": "http://touko.host.smartgslb.com",
+          "feed": "http://ao.acg.ac/?feed=rss2",
+          "link": "http://ao.acg.ac/",
           "name": "柚子"
         },
         {
@@ -252,7 +252,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://www.ztk.im/feed",
           "link": "https://www.ztk.im",
           "name": "Kiseopt"
         },
@@ -279,7 +279,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://nat.moe/feed/",
           "link": "https://nat.moe",
           "name": "奈特的魔法科研"
         },
@@ -306,8 +306,17 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://im.librazy.org/feed/",
           "link": "https://im.librazy.org",
+          "name": "Librazy"
+        },
+        {
+          "display": false,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "http://librazy.org/rss/",
+          "link": "http://librazy.org",
           "name": "Librazy"
         },
         {
@@ -315,7 +324,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://fenking.club/?feed=rss2",
           "link": "http://fenking.club",
           "name": "Fenking"
         },
@@ -324,16 +333,25 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.zsxsoft.com/feed.php",
           "link": "https://www.zsxsoft.com",
           "name": "zsx"
+        },
+        {
+          "display": false,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "https://oao.moe/atom.xml",
+          "link": "https://oao.moe",
+          "name": "云羽的羽毛"
         },
         {
           "display": true,
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://ikk.me/feed",
           "link": "https://ikk.me",
           "name": "kookxiang"
         },
@@ -342,7 +360,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://loutzongyi.moe/feed/",
           "link": "https://loutzongyi.moe",
           "name": "老中医的医药橱"
         },
@@ -351,7 +369,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.tellack.cc/feed",
           "link": "https://blog.tellack.cc",
           "name": "Tellack"
         },
@@ -360,7 +378,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.yoitsu.moe/feeds/all.atom.xml",
           "link": "https://blog.yoitsu.moe",
           "name": "约伊兹的萌狼乡手札"
         },
@@ -383,7 +401,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://luojia.me/feed/",
           "link": "https://luojia.me",
           "name": "佳佳酱"
         },
@@ -392,7 +410,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://imikirby.com/feed",
           "link": "https://ikirby.me",
           "name": "iKirby's Blog"
         },
@@ -401,7 +419,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://mouto.org/feed.php",
           "link": "http://i.mouto.org",
           "name": "偷揉"
         },
@@ -410,7 +428,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://www.acloli.com/feed/",
           "link": "http://www.acloli.com/",
           "name": "炸鸡块儿"
         },
@@ -419,16 +437,16 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://jimmy66.com/feed",
           "link": "http://jimmy66.com",
           "name": "星之所在"
         },
         {
           "display": true,
-          "break": false,
+          "break": true,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://diary.moe/feed",
           "link": "https://diary.moe",
           "name": "Dsus4plus"
         },
@@ -437,7 +455,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://jimmehcai.com/rss/",
           "link": "https://jimmehcai.com",
           "name": "Jimmy Cai's"
         },
@@ -446,7 +464,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://blog.meekdai.com/feed",
           "link": "http://meekdai.com/#!home",
           "name": "Meekdai"
         },
@@ -455,7 +473,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://wnjxyk.cn/feed/",
           "link": "http://wnjxyk.cn",
           "name": "WNJXYK"
         },
@@ -464,7 +482,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://taoxinhao.cn/feed",
           "link": "http://taoxinhao.cn",
           "name": "宅憶"
         },
@@ -473,7 +491,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://sell.moe/feed",
           "link": "https://sell.moe",
           "name": "橙的记事本"
         },
@@ -482,7 +500,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://hardrain980.com/feed",
           "link": "https://hardrain980.com",
           "name": "骤雨"
         },
@@ -491,7 +509,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://imguoguo.com/feed",
           "link": "https://imguoguo.com",
           "name": "Guoguo"
         },
@@ -500,8 +518,8 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
-          "link": "https://www.lynx.im",
+          "feed": "https://blog.nyan.im/feed",
+          "link": "https://blog.nyan.im",
           "name": "Yay Ka-Boom-Boom"
         },
         {
@@ -509,7 +527,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "http://www.mr158.cn/feed/",
           "link": "http://www.mr158.cn",
           "name": "MR158"
         },
@@ -518,7 +536,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://zankyo.cc/index.php/feed/",
           "link": "https://zankyo.cc",
           "name": "kot4ri"
         },
@@ -527,7 +545,7 @@
           "break": false,
           "avatar": "",
           "intro": "",
-          "feed": "",
+          "feed": "https://blog.lwl12.com/feed",
           "link": "https://blog.lwl12.com",
           "name": "LWL 的自由天空"
         }

@@ -357,8 +357,21 @@
         },
         {
           "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "",
           "link": "https://blog.yoitsu.moe",
           "name": "约伊兹的萌狼乡手札"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "",
+          "intro": "",
+          "feed": "https://fiveyellowmice.com/feed.xml",
+          "link": "https://fiveyellowmice.com",
+          "name": "FiveYellowMice"
         }
       ]
     },

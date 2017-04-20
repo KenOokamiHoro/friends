@@ -9,8 +9,14 @@ if (list[i].item[j].display) {
 %>* <%
 if (list[i].item[j].break) {
 %><%- list[i].item[j].name %><%
+if (list[i].item[j].intro != "") {
+%>  
+<%- list[i].item[j].intro %><% } %><%
 } else {
-%>[<%- list[i].item[j].name %>](<%- list[i].item[j].link %>)<% } %><% } %><% } %>
+%>[<%- list[i].item[j].name %>](<%- list[i].item[j].link %>)<%
+if (list[i].item[j].intro != "") {
+%>  
+<%- list[i].item[j].intro %><% } %><% } %><% } %><% } %>
 <% } %>
 ## 注意 ##
 

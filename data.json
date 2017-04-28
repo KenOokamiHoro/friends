@@ -386,10 +386,19 @@
           "display": true,
           "break": false,
           "avatar": "https://fiveyellowmice.com/favicon-194x194.png",
-          "intro": "我想到的并写下的任何东西，不添加防腐剂，无农药残留，图样、图奶衣服的个人偏见。",
+          "intro": "「我想到的并写下的任何东西，不添加防腐剂，无农药残留，图样、图奶衣服的个人偏见。」",
           "feed": "https://fiveyellowmice.com/feed.xml",
           "link": "https://fiveyellowmice.com",
           "name": "FiveYellowMice"
+        },
+        {
+          "display": true,
+          "break": false,
+          "avatar": "https://video-cache.morz.org/data/img/CatMoe-1.jpg",
+          "intro": "🌚🌝🌚🌝🌚",
+          "feed": "https://morz.org/rss",
+          "link": "https://morz.org",
+          "name": "喵萌博客"
         }
       ]
     },

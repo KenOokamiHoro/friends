@@ -101,7 +101,7 @@ var list = JSON.parse(fs.readFileSync("/opt/friends/data.json", {encoding: "utf8
 
 for (var i in list) {
     for (var j in list[i].item) {
-        if (!list[i].item[j].break && list[i].item[j].break != "") {
+        if (!list[i].item[j].break && list[i].item[j].feed != "") {
             poi("- name: " + list[i].item[j].name);
             poi("  avatar: " + list[i].item[j].avatar);
             poi("  link: " + list[i].item[j].feed);
